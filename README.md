@@ -29,5 +29,7 @@ MENTOR-        Divya Chopra
 | 12        |August 2,2021 | Learnt a bit about Time complexity  |
 | 13        |August 3,2021 | Learnt a bit about inheritance and operator overloading   |
 | 14        |August 4,2021 | Wasn't able to do anything  |
-|15| august 5-August 20 | about More concepts in OOPs and C++|
+|15         | August 5,2021| Dynamic Memory allocation |
+|16         | August 6,2021 | File handeling|
+|17         | August 7-August 20 , 2021 | More concepts of OOPs and C++|
 
