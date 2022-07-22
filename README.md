@@ -6,9 +6,6 @@
 ```http
 NAME-          Sakshi Vashishtha
 BRANCH-        Computer Science
-YEAR-          First
-POD NUMBER-    SP0217
-MENTOR-        Divya Chopra
   
 ```
 
